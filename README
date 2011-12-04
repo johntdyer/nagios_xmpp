@@ -1,1 +1,0 @@
-Simple script to for nagios check of xmpp server.  You can check a single node w/ the -n argument or use the JID.
